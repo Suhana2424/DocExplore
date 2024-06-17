@@ -10,7 +10,7 @@ To install the repository, please clone this repository and install the requirem
 pip install -r requirements.txt
 ```
 
-You will also need to add your OpenAI API/ Hugging Face API  key to the `.env` file.
+You will also need to add your gemini/hugging face API  key to the `.env` file.
 
 ## Usage
 
